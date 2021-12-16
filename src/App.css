@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+.label{
+  height: 100px;
+}
+
+.strength{
+  height: 100px;
+}
+
+.animation{
+  height: 100px;
+}
+
+.center-col {
+  flex: 1;
+  background: #aaa;
+  overflow-y: scroll;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  height: 50vh;
+}
+
+.grid{
+  width: 50px;
+  height: 50px;
+}
+
+.motionButton{
+  width: 300px;
+  height: 200px;
+}
+
+*
+{
+  will-change: unset !important;
+}
+
