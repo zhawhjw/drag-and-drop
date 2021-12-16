@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/drag-and-drop/static/css/main.6faf4bda.chunk.css",
+    "main.js": "/drag-and-drop/static/js/main.cacc9bcb.chunk.js",
+    "main.js.map": "/drag-and-drop/static/js/main.cacc9bcb.chunk.js.map",
+    "runtime-main.js": "/drag-and-drop/static/js/runtime-main.a10abf30.js",
+    "runtime-main.js.map": "/drag-and-drop/static/js/runtime-main.a10abf30.js.map",
+    "static/css/2.94be5dd8.chunk.css": "/drag-and-drop/static/css/2.94be5dd8.chunk.css",
+    "static/js/2.4b061977.chunk.js": "/drag-and-drop/static/js/2.4b061977.chunk.js",
+    "static/js/2.4b061977.chunk.js.map": "/drag-and-drop/static/js/2.4b061977.chunk.js.map",
+    "static/js/3.499e019a.chunk.js": "/drag-and-drop/static/js/3.499e019a.chunk.js",
+    "static/js/3.499e019a.chunk.js.map": "/drag-and-drop/static/js/3.499e019a.chunk.js.map",
+    "index.html": "/drag-and-drop/index.html",
+    "static/css/2.94be5dd8.chunk.css.map": "/drag-and-drop/static/css/2.94be5dd8.chunk.css.map",
+    "static/css/main.6faf4bda.chunk.css.map": "/drag-and-drop/static/css/main.6faf4bda.chunk.css.map",
+    "static/js/2.4b061977.chunk.js.LICENSE.txt": "/drag-and-drop/static/js/2.4b061977.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/drag-and-drop/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a10abf30.js",
+    "static/css/2.94be5dd8.chunk.css",
+    "static/js/2.4b061977.chunk.js",
+    "static/css/main.6faf4bda.chunk.css",
+    "static/js/main.cacc9bcb.chunk.js"
+  ]
+}
